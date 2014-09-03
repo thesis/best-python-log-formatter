@@ -5,6 +5,9 @@ A good (the best, actually) formatter for Python logging.
 
 https://pypi.python.org/pypi/best_log_formatter/
 
+.. image:: https://circleci.com/gh/cardforcoin/best-python-log-formatter.png?style=badge
+    :target: https://circleci.com/gh/cardforcoin/best-python-log-formatter
+
 .. pypi - Everything below this line goes into the description for PyPI.
 
 

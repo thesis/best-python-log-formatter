@@ -17,7 +17,7 @@ There is one class in this package: ``best_log_formatter.Formatter``
 The log format
 --------------
 
-Dates are all in UTC.
+Dates are all in UTC with millisecond precision.
 
 .. code::
 

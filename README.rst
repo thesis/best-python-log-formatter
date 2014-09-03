@@ -19,12 +19,12 @@ The log format
 
 Dates are all in UTC.
 
-For multi-line messages, all lines after the first are indented with a tab
-character.
-
 .. code::
 
     2014-08-08T05:13:59,214+0000 name.of.logger INFO Status is nominal.
+
+For multi-line messages, all lines after the first are indented with a tab
+character.
 
 .. code::
 

@@ -1,6 +1,10 @@
 best-python-log-formatter
 =========================
 
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/cardforcoin/best-python-log-formatter
+   :target: https://gitter.im/cardforcoin/best-python-log-formatter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 A good (the best, actually) formatter for Python logging.
 
 https://pypi.python.org/pypi/best_log_formatter/
